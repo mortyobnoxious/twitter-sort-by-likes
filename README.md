@@ -1,5 +1,3 @@
-# Twitter Replies Sorter
-
 Firefox extension to automatically sort Twitter replies by likes.
 
 ## Installation
